@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Jestem nowym plikiem
+=======
+Jestem nowym plikiem
+Jednak tu musi być jeszcze ta linijka
+>>>>>>> drugi commit
